@@ -40,8 +40,8 @@ Your data never leaves Discord.
 
 ## 6. Contact
 If you have any concerns or questions about data usage, you can contact the developer at:  
-- Discord: **[YourDiscordTag]**  
-- Email: **[YourEmail@example.com]**
+- Discord: **azhaan.dev.exe**  
+- Email: **azhaangameing4130@gmail.com**
 
 ---
 
