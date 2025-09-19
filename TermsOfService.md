@@ -1,6 +1,6 @@
-# Terms of Service for [Your Bot Name]
+# Terms of Service for Zyrox X
 
-_Last updated: [Date]_
+_Last updated: 19-9-25_
 
 ## 1. Acceptance of Terms
 By inviting or using [Your Bot Name] ("the Bot"), you agree to these Terms of Service.  
